@@ -1,0 +1,25 @@
+body {
+    background: #321C3B;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.da-logo{
+max-width: 40%;
+width: 300px;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+a, p {
+    text-decoration: none;
+    color: #EEEDB1;
+    text-align: center;
+}
+
+a:hover{
+    color: #F15A2B;
+
+}
